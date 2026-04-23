@@ -6,7 +6,7 @@ This project allows users to efficiently manage daily tasks through a clean and 
 ## 🚀 Live Demo
 
  Live project link:  
-[[View Project](https://username6785.github.io/To-do-List/)
+[View Project](https://username6785.github.io/To-do-List/)
 
 ---
 
